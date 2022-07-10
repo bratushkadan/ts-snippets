@@ -6,7 +6,7 @@
 
 * [utils.ts](./utils.ts) - various useful (*and sometimes tricky*) type utils 🔥
 
-* [ts-standard-utils.ts](./typescript-standard-utils.ts) - contains types regarding the way I managed to implement TypeScript standard utility types library.
+* [ts-standard-utils.ts](./ts-standard-utils.ts) - contains types regarding the way I managed to implement TypeScript standard utility types library.
 
 * [constructors.ts](./constructors.ts) - demonstrates how class contract types could be implemented in order to constraint passed variables to be a functions that have a constructor.
 
